@@ -8,4 +8,5 @@
         IT Family HUB
     </author>
     <access origin="*" />
+    <icon src="icon.png" />
 </widget>
